@@ -22,5 +22,7 @@ npm install
 npm run dev
 ```
 
-## Notes
-This scaffold is intentionally minimal. Replace stubs with real implementations (OpenAI/Gemini clients, Chroma adapter, PDF extraction).
+Notes
+
+⚠️ This project is a minimal scaffold for demonstration purposes.
+Some components such as LLM clients, Chroma adapter, and PDF extraction are implemented as stubs. These should be replaced with production-ready implementations when deploying..
